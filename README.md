@@ -6,6 +6,7 @@
 * [Demo](#demo)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
 
@@ -42,6 +43,9 @@ The user will first need to download the Node.js application onto their computer
 ## Usage
 
 In order to run the SVG Logo generator, the user will need to type `node index.js` to launch a series of questions. Once all the questions have been answered, the responses will be saved/written to a “logo.svg” file.
+
+## Contributing
+Contributions from youtube videos, stackoverflow, classmates in knowledge support to finish SVG logo challenge.
 
 ## Tests
 
