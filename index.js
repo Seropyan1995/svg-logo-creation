@@ -85,7 +85,7 @@ function init() {
     inquirer.prompt(questions)
     .then((data) => {
         const shape = createShape(data);
-        const logo = shape.generateLogo();
+        const logo = shape.createLogo();
         writeToFile(logo);
     });
 };
